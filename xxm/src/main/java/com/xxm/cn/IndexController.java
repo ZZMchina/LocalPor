@@ -18,8 +18,8 @@ public class IndexController {
         // return "index1.html";
         return "redirect:/html/myindex.html";
         // return "index";
-        
-        //testTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTt
+
+        // testTTTTTTTTTTTT
     }
 
 }
